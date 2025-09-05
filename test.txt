@@ -1,2 +1,0 @@
-username: aumazumdar
-password: ThisIsNotAPassword!@#$987
